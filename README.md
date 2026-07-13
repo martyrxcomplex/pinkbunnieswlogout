@@ -1,5 +1,5 @@
 <img width="768" height="480" alt="image" src="https://github.com/user-attachments/assets/750ab9e8-9a81-4804-8e69-3339f64dd891" />
-# pinkbunnieswlogout
+
 Just my wlogout theme incase you're interested &lt;3
 
 No install script or anything fancy, CSS was the only part of this that I actually know, but on the bright side, if a noob like me can figure it out then you probably can too. 
